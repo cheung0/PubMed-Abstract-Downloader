@@ -1,4 +1,4 @@
-# Download-PubMed-Abstracts-with-Python-Tool
+# PubMed-Abstract-Downloader
 If you're a medical student, or doctor, or are trying to read PubMed articles relating to your medicine or medical condition, this Python tool's for you. It downloads PubMed abstracts in a text file, allowing you to read them faster. It helps you save time!
 
 ## Before 😒
