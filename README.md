@@ -3,12 +3,15 @@ If you're a medical student, or doctor, or are trying to read PubMed articles re
 
 ## Before 😒
 ![Screenshot 2023-07-04 at 3 34 47 PM](https://github.com/cheung0/Download-PubMed-Abstracts-with-Python-Tool/assets/56772737/97a9c25c-4328-48a4-b3a3-979019934424)
-
-
-##
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## After 😊
 ![Screenshot 2023-07-04 at 3 33 23 PM](https://github.com/cheung0/Download-PubMed-Abstracts-with-Python-Tool/assets/56772737/dade36b7-ff0e-4199-bb35-1dabbd0c3e8c)
